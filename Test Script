@@ -27,5 +27,62 @@ p-value < 2.2e-16
 
 Both weekly and fortnight data are not random (We reject the null hypothesis)
 #------------------------------------------------------------------------------------------------------------
+Run test
+H0: The distribution of the two stramflow series are the same 
+H1: The distribution of the two stream flow series are not the same
+
+Results:
+	Runs Test - Two sided
+
+data:  w$Q  for weekly data
+Standardized Runs Statistic = -43.489, p-value < 2.2e-16
+
+> runs.test(x$Q) for fortnight data
+
+	Runs Test - Two sided
+
+data:  x$Q
+Standardized Runs Statistic = -28.194, p-value < 2.2e-16
+
+We found out that the distribution of two stream flow series in both weekly and fortnight are not the same.
+
+#--------------------------------------------------------------------------------------------------------------------
+
+Pettitt test for homogenity test in time series
+H0: The T variables follow one or more distributions that have the same location parameter.
+H1: The variables have not the same distribution
+
+Results for weekly data they have not the same distribution because of the null hypothesis rejection
+Pettitt's test for single change-point detection
+
+data:  W
+U* = 3816, p-value < 2.2e-16
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                              1 
+-----------------
+
+Results for fortnight they have not the same distribution because of the null hypothesis rejection
+	Pettitt's test for single change-point detection
+
+data:  W
+U* = 1970, p-value < 2.2e-16
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                              1 
+#------------------------------------------------------------------------------------------
+Mann kendall
+H0: There is trend
+H0: There is no trend
+
+Reults of mankendall test for weekly stream flow data there is no trend
+tau = -0.18, 2-sided pvalue =< 2.22e-16
+
+Reults of mankendall test for fortnight stream flow data there is no trend
+tau = -0.18, 2-sided pvalue =< 2.22e-16
+
+#-----------------------------------------------------------------------------------------------
 
 
