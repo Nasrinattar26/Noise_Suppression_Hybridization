@@ -5,4 +5,12 @@ This repository includes all the scripts related to the paper titled"A Novel Sto
 
 
 *Test script file shows all the methods and their codes with real example 
+
+
+**The results of the CEEMDAN IMFs for the weekly stream flow data in Gazvin
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/weekCEEMDAN.jpeg)
+
+
+
+**The results of the CEEMDAN IMFs for the fortnight stream flow data in Gazvin
+![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/FortnightCEEMDAN.jpeg)
