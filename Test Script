@@ -1,1 +1,29 @@
 This is the test script of the codes used in this project
+
+Why should data be random?
+The simplest random sample allows all the units in the population to have an equal chance of being selected
+**Bartels Test of Randomness
+H0: Randomness
+H1: Not random data
+
+Results:
+> w<-read.csv("G:/Gazvin/Azmoon/week.csv",header=TRUE)
+> x<-read.csv("G:/Gazvin//Azmoon/fortnight.csv",header=TRUE)
+> bartels.test(w$Q) for weekly data
+
+	Bartels Test - Two sided
+
+data:  w$Q
+Standardized Bartels Statistic = -47.746, RVN Ratio = 0.15954,
+p-value < 2.2e-16
+
+> bartels.test(x$Q) for fortnight data
+
+	Bartels Test - Two sided
+
+data:  x$Q
+Standardized Bartels Statistic = -31.912, RVN Ratio = 0.26035,
+p-value < 2.2e-16
+
+Both weekly and fortnight data are not random (We reject the null hypothesis)
+#------------------------------------------------------------------------------------------------------------
