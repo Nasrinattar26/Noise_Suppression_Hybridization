@@ -5,4 +5,4 @@ This repository includes all the scripts related to the paper titled"A Novel Sto
 
 
 *Test script file shows all the methods and their codes with real example 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/weekCEEMDAN.jpeg)
