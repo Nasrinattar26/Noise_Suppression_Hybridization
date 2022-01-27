@@ -5,3 +5,4 @@ This repository includes all the scripts related to the paper titled"A Novel Sto
 
 
 *Test script file shows all the methods and their codes with real example 
+![Screenshot]weekCEEMDAN
