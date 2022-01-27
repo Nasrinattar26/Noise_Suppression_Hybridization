@@ -8,9 +8,18 @@ This repository includes all the scripts related to the paper titled"A Novel Sto
 
 
 **The results of the CEEMDAN IMFs for the weekly stream flow data in Gazvin
-![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/weekCEEMDAN.jpeg)
+
+
 
 
 
 **The results of the CEEMDAN IMFs for the fortnight stream flow data in Gazvin
+
+
+
+
+# CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (WEEKly data)
+![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/weekCEEMDAN.jpeg)
+
+# CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (Fortnight data)
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/FortnightCEEMDAN.jpeg)
