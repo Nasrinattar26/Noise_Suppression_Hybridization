@@ -9,6 +9,7 @@ This repository includes all the scripts related to the paper titled **"A Novel 
 
  2-[Quick Test](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/Quick%20Test) file shows all the methods and their codes with a real example.
  
+ 3- Tree models conducted in [WEKA](https://waikato.github.io/weka-wiki/downloading_weka/) software.
  
 **The flowchart of the study is as below:**
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/Flowchart.jpg)
