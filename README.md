@@ -5,22 +5,22 @@ This repository includes all the scripts related to the paper titled"A Novel Sto
 
  [Quick Test](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/Quick%20Test) file shows all the methods and their codes with a real example
 
-# The flowchart of the study is as below:
+The flowchart of the study is as below:
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/Flowchart.jpg)
 
 
-# The results of the CEEMDAN IMFs for the weekly streamflow data in Gazvin
+The results of the CEEMDAN IMFs for the weekly streamflow data in Gazvin
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/CEEMDANweek.png)
 
 
-# The results of the CEEMDAN IMFs for the fortnight streamflow data in Gazvin
+The results of the CEEMDAN IMFs for the fortnight streamflow data in Gazvin
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/CEEMDANfortnight.png)
 
 
 
-# CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (WEEKly data)
+CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (WEEKly data)
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/weekCEEMDAN.jpeg)
 
 
-# CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (Fortnight data)
+CEEMDAN for logarithmic demand, note that increasing ensemble size will produce smoother results (Fortnight data)
 ![alt text](https://github.com/Nasrinattar26/Noise_Suppression_Hybridization/blob/main/FortnightCEEMDAN.jpeg)
